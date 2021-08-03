@@ -1,0 +1,30 @@
+
+h1 {
+    color : Green;
+   
+  } 
+  /* * {
+      border: solid;
+  } */
+  .header {
+      background-color: rgb(0, 255, 136);
+      /*flexing using flexibale.... */
+      display:flex;
+      justify-content: space-between;
+  }
+
+  .grid{
+      display:flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+
+  }
+
+  .footer{
+    display:flex;
+    justify-content: flex-end;
+  }
+
+  p,h2 {
+      text-align: center;
+  }
