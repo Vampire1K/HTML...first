@@ -1,6 +1,6 @@
 
 h1 {
-    color : Green;
+    color: rgb(233, 33, 166);
    
   } 
   /* * {
@@ -17,14 +17,18 @@ h1 {
       display:flex;
       flex-wrap: wrap;
       justify-content: space-evenly;
+      background-color: rgb(151, 150, 230);
+
 
   }
 
   .footer{
     display:flex;
     justify-content: flex-end;
+    background-color: rgb(92, 30, 100);
   }
 
   p,h2 {
       text-align: center;
+      background-color: rgb(2, 225, 255);
   }
